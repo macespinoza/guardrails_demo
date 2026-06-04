@@ -242,3 +242,5 @@ Material académico preparado para explicar guardrails en soluciones conversacio
 **Tema:** IA Generativa aplicada a arquitectura de soluciones  
 **Caso:** Asistente de postventa retail con LangChain  
 **Enfoque:** aprendizaje práctico, trazabilidad, cumplimiento y gobierno de acciones
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel%20Cotrina-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/mcotrina/)
